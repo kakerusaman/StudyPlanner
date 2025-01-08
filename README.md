@@ -1,1 +1,1 @@
-"# My New Repository" 
+"勉強ノート"
